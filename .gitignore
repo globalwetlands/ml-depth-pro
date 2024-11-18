@@ -7,8 +7,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
+# Extensions
 *.so
+*.jpg
+*.JPG
+*.jpeg
+*.JEPG
+*.png
+*.PNG
+*.mp4
+*.mp3
 
 # Model
 checkpoints/
