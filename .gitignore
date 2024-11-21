@@ -23,6 +23,9 @@ checkpoints/
 *.pt
 *.pth
 
+# Folders
+data/
+
 # Distribution / packaging
 .Python
 build/
