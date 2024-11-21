@@ -11,10 +11,10 @@ model.eval()
 
 # Use Argparse after
 # Directory containing the input images
-input_dir = "data/images/"
+input_dir = "data/examples/"
 
 # Directory to save the output depth maps
-output_dir = "data/depth-maps/"
+output_dir = "data/examples-output/"
 
 # Create the output directory if it doesn't exist
 os.makedirs(output_dir, exist_ok=True)
